@@ -2,6 +2,7 @@
 E-Commerce_Project
 Imagem Exemplo
 
+![Capa](https://github.com/LeandroGoulart/e-commerce/assets/82618246/869dd216-5258-4b67-bfd5-7732e1555197)
 
 Descrição
 Este é um projeto de E-Commerce desenvolvido utilizando HTML, CSS, JavaScript, Tailwind CSS, React e Node.js. O objetivo deste projeto é criar uma loja online onde os usuários podem navegar por produtos, adicionar itens ao carrinho e efetuar compras.
