@@ -112,7 +112,7 @@ export function desenharProdutoCarrinhoSimples(
         ${produto.nome}
       </p>
       <p class="text-slate-400 text-xs">Tamanho: M</p>
-      <p class="text-green-700 text-lg">$${produto.preco}</p>
+      <p class="text-green-700 text-lg">R$${produto.preco}</p>
     </div>
     <div class='flex text-slate-950 items-end absolute bottom-0 right-2 text-lg'>
         <p id='quantidade-${produto.id}' class='ml-2'>${quantidadeProduto}</p>
